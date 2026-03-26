@@ -28,3 +28,16 @@ LMNOX	      1.15	    0.08	        0.38	Volatility Play
 VTI        	1	0	      N/A	                Benchmark
 
 Note: A P-Value > 0.05 indicates that the outperformance is not statistically significant. Most core funds in the industry operate in the 0.30–0.60 range—effectively a coin flip.
+
+Disclaimer: Quantitative Research vs. Individual Advice
+1. Not Investment Advice
+The code and analysis contained in this repository are for educational and research purposes only. The "Table of Alpha Decay" and associated P-Value calculations are historical statistical observations and do not constitute a recommendation to buy, sell, or hold any specific security.
+
+2. No Fiduciary Relationship
+Accessing or running this code does not create an advisory relationship. This repository is a technical critique of institutional "Core Fund" structures using open-source data.
+
+3. Non-Stationarity and Risk
+As noted in the analysis, market regimes are non-stationary. Past statistical "Luck Probabilities" (P-Values) are not predictors of future results. All trading involves the risk of total capital loss.
+
+4. Data Integrity
+Data is sourced via the yfinance API (Yahoo Finance). While generally reliable for broad benchmarking, users should verify all data points before drawing final conclusions. The author is not responsible for any errors or omissions in the underlying data sets.

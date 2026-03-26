@@ -1,0 +1,3 @@
+from core_analysis import get_mastodon_killer_stats
+stats = get_mastodon_killer_stats('FCNTX')
+print(stats.tail())
